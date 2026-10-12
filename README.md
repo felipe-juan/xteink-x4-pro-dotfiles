@@ -1,5 +1,7 @@
 # CrossInk setup (Xteink X4 Pro)
 
+![](https://github.com/felipe-juan/xteink-x4-pro-dotfiles/blob/main/photo%20(i'm%20too%20lazy%20to%20change%20directory).jpg?raw=true)
+
 This is a list of one person's settings for CrossInk on an Xteink X4 Pro. It is organized menu by menu so the same setup can be recreated by hand, without copying any files.
 
 Where the CrossInk default is known, it is listed so you can see what is different.
